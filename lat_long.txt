@@ -1,0 +1,1 @@
+Reporting_PHU_Latitude,Reporting_PHU_Longitude,Reporting_PHU_Postal_Code,created_date,updated_date,sor,active,int_la,int_long,ErrorCode,ErrorColumn
